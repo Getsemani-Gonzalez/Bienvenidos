@@ -1,3 +1,2 @@
 
-<p> Mi primer repositorio<p/>
-<p>Getsemani Gonzalez Castro<p/>
+<p>Getsemani Gonzalez Castro<p>
